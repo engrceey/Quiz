@@ -1,0 +1,173 @@
+***Questions List***
+
+Q.1: What Breaks and never falls and what falls and never breaks ?
+    option 0 : Air
+    option 1 : Day breaks and night falls
+    option 2 : Sun shine
+    option 3 : Sound
+
+Q.2: Some months have 31 days, others ave 30 days, but how many have 28 ?
+    option 0 : Febuary
+    option 1 : One month
+    option 2 : All months
+    option 3 : Some months
+
+
+Q.3: If a plane crashes on the border between the USA and Canada, Where will they bury the survivors ?
+    option 0 : The area the crash happened
+    option 1 : Will be buried in their countries
+    option 2 : In the border
+    option 3 : No survivor will be buried 
+
+Q.4 If You have a bowl with six apples if you take four,how many do you have?
+    option 0 : four
+    option 1 : Two
+    option 2 : six
+    option 3 : None
+
+Q.5 What can be broken but is never held ?
+    option 0 : Heart
+    option 1 : Air
+    option 2 : Promise
+    option 3 : lies
+
+Q.6 What can live if its feed and dies if it drinks ?
+    option 0 : Fish
+    option 1 : Rumours
+    option 2 : Heart
+    option 3 : Fire
+
+
+
+    
+    <div class="quiz-box custom-box hide">
+      <div class="question-number">
+        Question 2 of 6
+      </div>
+      <div class="question-text">
+        Some months have 31 days, others have 30 days, but how many have 28 ?
+      </div>
+      <div class="option-container">
+        <div class="option option1">Febuary</div>
+        <div class="option option2">One month</div>
+        <div class="option option3">All months</div>
+        <div class="option option4">Some months</div>
+      </div>
+      <div class="next-question-btn">
+        <button type="button" class="btn">Next</button>
+      </div>
+      <div class="answers-indicators">
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        <div class="six"></div>
+      </div>
+    </div>
+
+    <div class="quiz-box custom-box hide">
+      <div class="question-number">
+        Question 3 of 6
+      </div>
+      <div class="question-text">
+        If a plane crashes on the border between the USA and Canada, Where will
+        they bury the survivors ?
+      </div>
+      <div class="option-container">
+        <div class="option option1">The area the crash happened</div>
+        <div class="option option2">Will be buried in their countries</div>
+        <div class="option option3">In the border</div>
+        <div class="option option4">No survivor will be buried</div>
+      </div>
+      <div class="next-question-btn">
+        <button type="button" class="btn">Next</button>
+      </div>
+      <div class="answers-indicators">
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        <div class="six"></div>
+      </div>
+    </div>
+
+    <div class="quiz-box custom-box hide">
+      <div class="question-number">
+        Question 4 of 6
+      </div>
+      <div class="question-text">
+        If You have a bowl with six apples if you take four,how many do you
+        have?
+      </div>
+      <div class="option-container">
+        <div class="option option1">four</div>
+        <div class="option option2">Two</div>
+        <div class="option option3">Six</div>
+        <div class="option option4">None</div>
+      </div>
+      <div class="next-question-btn">
+        <button type="button" class="btn">Next</button>
+      </div>
+      <div class="answers-indicators">
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        <div class="six"></div>
+      </div>
+    </div>
+
+    <div class="quiz-box custom-box hide">
+      <div class="question-number">
+        Question 5 of 6
+      </div>
+      <div class="question-text">
+        What can be broken but is never held ?
+      </div>
+      <div class="option-container">
+        <div class="option option1">Heart</div>
+        <div class="option option2">Air</div>
+        <div class="option option3">Promise</div>
+        <div class="option option4">Lies</div>
+      </div>
+      <div class="next-question-btn">
+        <button type="button" class="btn">Next</button>
+      </div>
+      <div class="answers-indicators">
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        <div class="six"></div>
+      </div>
+    </div>
+
+    <div class="quiz-box custom-box hide">
+      <div class="question-number">
+        Question 6 of 6
+      </div>
+      <div class="question-text">
+        What can live if its feed and dies if it drinks ?
+      </div>
+      <div class="option-container">
+        <div class="option option1">Fish</div>
+        <div class="option option2">Rumours</div>
+        <div class="option option3">Heart</div>
+        <div class="option option4">Fire</div>
+      </div>
+      <div class="next-question-btn">
+        <button type="button" class="btn">Finish</button>
+      </div>
+      <div class="answers-indicators">
+        <div class="one"></div>
+        <div class="two"></div>
+        <div class="three"></div>
+        <div class="four"></div>
+        <div class="five"></div>
+        <div class="six"></div>
+      </div>
+    </div>
