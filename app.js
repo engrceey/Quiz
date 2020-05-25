@@ -121,7 +121,7 @@ function quizOver() {
 function quizResult() {
   if (correctAnswers < quiz.length / 2 - 1) {
     reaction.innerHTML =
-      " &#128551; &#128551; &#128551; YOUR SCHOOL FEES NA WASTE!! &#128532;";
+      "YOUR SCHOOL FEES NA WASTE!! &#128532;";
   } else if (correctAnswers <= quiz.length / 2) {
     reaction.innerHTML = "SO YOU NO FIT GET ABOVE HALF &#128530; ";
   } else if (correctAnswers == quiz.length) {
