@@ -22,7 +22,7 @@ const quiz = [
   },
   {
     q:
-      "If You have a bowl with six apples if you take four,how many do you have?",
+      "If You have a bowl with six apples if you take four, how many do you have?",
     options: ["Four", "Two", "Six", "None"],
     answer: 0,
   },
